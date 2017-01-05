@@ -1,1 +1,16 @@
+# Site settings
+email: 
+baseurl: "dafin.github.io"
 theme: jekyll-theme-minimal
+
+# Sass
+sass:
+  style: compressed
+
+
+# Build settings
+exclude: ["Gemfile", "Gemfile.lock"]
+markdown: kramdown
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
