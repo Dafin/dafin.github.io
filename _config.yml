@@ -1,7 +1,6 @@
 # Site settings
 
 baseurl: ""
-theme: jekyll-theme-minimal
 
 # Sass
 sass:
