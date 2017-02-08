@@ -1,5 +1,6 @@
 # Site settings
 
+title: "Dafins Ramblings"
 baseurl: ""
 
 # Sass
@@ -10,7 +11,7 @@ sass:
 # Build settings
 exclude: ["Gemfile", "Gemfile.lock"]
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
