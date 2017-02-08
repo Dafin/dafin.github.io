@@ -3,6 +3,8 @@
 title: "Dafins Ramblings"
 baseurl: ""
 
+google_analytics: 
+
 # Sass
 sass:
   style: compressed
