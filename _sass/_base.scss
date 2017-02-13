@@ -2,12 +2,33 @@
  * Base Variables
  */
 
+
+$color-alpha: #9f8f68;
+$color-alpha--light: #f5f3ef;
+
+$color-black: #0a0a0a;
+$color-grey: #f8f9f9;
+$color-white: #fff;
+
+$mq-xs: 20em;
+$mq-sm: 30em;
+$mq-md: 54em;
+$mq-lg: 64em;
+$mq-xl: 76.5em;
+$mq-xxl: 114em;
+
+
 body {
   font-family: "helvetica","arial","freesans","clean","sans-serif";
   font-size: 100%;
   line-height: 1.6;
-  background-color: lightblue;
+  background-color: $color-grey;
 }
+
+
+
+
+
 
 h1, h2 {
   margin: 0;
@@ -44,3 +65,14 @@ a {
     color: gray;
   }
 }
+
+
+/**
+ * Text Selection, not fully supported in all browsers yet!
+ */
+::selection {
+  color: $color-white;
+  background-color: $color-alpha;
+  text-shadow: none;
+}
+
