@@ -2,8 +2,18 @@
 layout: default
 ---
 
-The following is a post
 
+  <header>
+    <a class="nav nav--white" href="{{ site.baseurl }}/">
+      <span>Home</span>
+    </a>
+    <div>
+      <h1 itemprop="name headline">{{ page.title }}</h1>
+      <span></span>
+    </div>
+  </header>
+
+<article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
 
 <article>
     {{ content }}
