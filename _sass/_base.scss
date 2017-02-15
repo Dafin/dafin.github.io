@@ -18,16 +18,17 @@ $mq-xl: 76.5em;
 $mq-xxl: 114em;
 
 
+html { 
+  background: url("/assets/images/leather.jpeg") repeat center center fixed; 
+}
+
+
 body {
   font-family: "helvetica","arial","freesans","clean","sans-serif";
   font-size: 100%;
   line-height: 1.6;
   background-color: $color-grey;
 }
-
-
-
-
 
 
 h1, h2 {
