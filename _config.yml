@@ -3,6 +3,9 @@
 title: "Dafins Ramblings"
 baseurl: ""
 
+paginate: 5
+paginate_path: "/blog/page-:num"
+
 description: "Dafins Ramblings on Code and Life"
 twitter_username: "Dafin"
 default_img: "https://avatars1.githubusercontent.com/u/2958639?v=3&s=460"
@@ -16,6 +19,8 @@ sass:
 
 
 # Build settings
+include: ["_categories"]
+
 exclude: ["Gemfile", "Gemfile.lock"]
 markdown: kramdown
 permalink: /:title/
