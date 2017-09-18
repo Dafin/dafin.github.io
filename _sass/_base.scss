@@ -1,7 +1,7 @@
 /**
  * Base Variables
  */
-$font-header: "helvetica","arial","freesans","clean","sans-serif";
+$font-header: "Pathway Gothic One","helvetica","arial","freesans","clean","sans-serif";
 $font-body: "helvetica","arial","freesans","clean","sans-serif";
 $font-post: "helvetica","arial","freesans","clean","sans-serif";
 
@@ -58,7 +58,7 @@ h1, h2 {
 }
 
 h1 {
-  $fontSize: 3em;
+  $fontSize: 2.5em;
 
   @media (min-width: $mq-md) {
     font-size: $fontSize;
@@ -112,3 +112,4 @@ a {
   text-shadow: none;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Pathway+Gothic+One');
