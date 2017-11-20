@@ -6,10 +6,9 @@ baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 
-description: "Dafins Ramblings on Code and Life"
+description: "Dafins Ramblings on Code and Life, with pretty pictures :)"
 twitter_username: "Dafin"
 default_img: "https://avatars1.githubusercontent.com/u/2958639?v=3&s=460"
-
 
 google_analytics: "UA-91756484-1" 
 
