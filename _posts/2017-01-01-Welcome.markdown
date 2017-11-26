@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Welcome"
+date: 2016-01-02
+categories:
+  - Community
+description: Welcome post
+image: /assets/images/fw.jpg
+image-sm: /assets/images/thumbs/fw.jpg 
+---
+#### Thanks for popping by :)
+Hi! I'm Dafin :) This website is an attempt making and updating a phlog*.
+I anticipate posts will be about code, community, life and random thoughts.
+
+
+*This Phlog is just an image centric blog, not to be confused with [rlogs](https://en.wikipedia.org/wiki/Phlog "rlogs AKA plogs") - although like rlogs, these posts are just text files ([mark down](https://en.wikipedia.org/wiki/Markdown "usually with a .md file extension")) and will probably be similarly rarely updated.
+
+Enjoy the randomness x)
+
+
+
+[(っ ͡ ͜ʖ ͡ )っ ](../ "Take me home :)")

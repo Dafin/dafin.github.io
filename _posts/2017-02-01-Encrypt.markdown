@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Encrypt"
+date: 2017-01-01
+categories:
+  - Safety
+description: Why Encrypt?
+image: /assets/images/padlock_keys_cb.jpg
+image-sm: /assets/images/thumbs/padlock_keys_cb.jpg
+---
+#### How and why should you encrypt?
+
+Encryption is not something that only just top government officials, spies and the paranoid do!
+
+It is used in a lot of places, for example, when logging into online banking. Encryption is used by your browser to protect the data you supply to the app or website, on its way there and back to you.
+
+Encryption can be a good counter measure to prevent [identify theft](https://en.wikipedia.org/wiki/Identity_theft#Individual_identity_protection "wiki definition"), and identity theft can happen to _anyone_!
+
+
+When data is encrypted, it turns into a seemingly random collection of characters, unless of course you have the decryption key! This is commonly used in messaging apps, such as whatsapp and imessage,  but it's also easy to encrypt _all_ the data on a device, thanks to this usually being built-in to its operating system. So now there's no excuse not to protect your privacy in this manner!
+
+Follow the steps below for encrypting the devices relevant for you. Operating systems are always changing, so the exact details and may differ slightly, though the process is largely the same.
+
+Once complete, you will only need to enter a password when turning on or waking up your device to automatically decrypt your data.
+
+[iPhone](#iphone), [MacOs/OSX](#macososx) , [Windows 7](#windows-7) , [Android](#android)
+
+
+
+#### MacOs/OSX
+
+    1.Go to System Preferences > Security & Privacy > FileVault
+    2.Click “Turn On FileVault…”
+    3.IMPORTANT: Make a note of the recovery key that is displayed and
+    store it away from your Mac.
+    4.Wait for encryption to complete, but it’s OK to continue using the computer.
+
+
+
+#### Windows 7
+
+Note: BitLocker may not be available in all versions of Windows.
+
+    1.Go to Control Panel > BitLocker Drive Encryption.
+    2.Click “Turn on BitLocker” next to the drive you want to encrypt.
+    3.Enter a long and varied alphanumeric password or passphrase.
+      IMPORTANT: Make a backup of the recovery key using one of the displayed methods.
+    4.Choose whether to encrypt used disk space only (faster) and start the encryption process.
+
+
+#### iPhone
+
+    1.Go to Settings > Touch ID & Passcode.
+    2.Press “Turn Passcode On” if not enabled already.
+    3.Press “Passcode options” to choose a custom numeric or alphanumeric code (recommended).
+    4.Confirm your device is encrypted by scrolling to the bottom of the
+      Settings > Touch ID & Passcode screen.
+      You should see the “Data protection is enabled” message.
+
+
+#### Android
+
+    1.Plug in the device to charge the battery (required).
+    2.Make sure a password or PIN is set in Security > Screen lock.
+    3.Go to Settings > Security.
+    4.Press the “Encrypt phone” option.
+    5.Read the notice and press “Encrypt phone” to start the encryption process.
+    6.Remember to keep the phone plugged in until complete.
+
+If you are still not convinced read [this](http://www.makeuseof.com/tag/not-just-for-paranoids-4-reasons-to-encrypt-your-digital-life/ "not just for the paranoid!") dated but still relevant article, and [this](http://bigthink.com/connected/encryption-privacy-signal "Big Think") one for wider implications.  
+
