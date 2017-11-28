@@ -17,4 +17,6 @@ The competition was to prototype/ develop an application that would help foreign
 The people, atmosphere and code and designs being banged out on laptops were all beautiful.
 The event was a blast and I knew it would not be my last!
 
-More event details to follow, meanwhile you can check the official photos on [flickr](https://www.flickr.com/photos/danielbayley80/albums/72157663156249483 "Official Photos").
+More event details to follow.
+I've set up a li'l page for the [pictures I took here](http://great.gallery/NHS_N_Hackathon/).
+You can check the official photos on [flickr](https://www.flickr.com/photos/danielbayley80/albums/72157663156249483 "Official Photos").
