@@ -18,5 +18,5 @@ The people, atmosphere and code and designs being banged out on laptops were all
 The event was a blast and I knew it would not be my last!
 
 More event details to follow.
-I've set up a li'l page for the [pictures I took here](http://great.gallery/NHS_N_Hackathon/).
+I've set up a li'l page for the [pictures I took here](http://great.gallery).
 You can check the official photos on [flickr](https://www.flickr.com/photos/danielbayley80/albums/72157663156249483 "Official Photos").
