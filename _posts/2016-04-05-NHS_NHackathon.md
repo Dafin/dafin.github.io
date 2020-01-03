@@ -14,9 +14,9 @@ I participated in a 48 hour hackathon held at the Google Campus in London, in th
 
 The competition was to prototype/ develop an application that would help foreign migrants access health services within the UK.
 
-The people, atmosphere and code and designs being banged out on laptops were all beautiful.
+The people, atmosphere and code and designs being hammered out on laptops were all beautiful.
 The event was a blast and I knew it would not be my last!
 
 More event details to follow.
-I've set up a li'l page for the [pictures I took here](http://great.gallery).
+I've set up a li'l page for the [pictures I took here](https://new-natives.great.gallery).
 You can check the official photos on [flickr](https://www.flickr.com/photos/danielbayley80/albums/72157663156249483 "Official Photos").
