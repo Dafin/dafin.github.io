@@ -6,7 +6,7 @@ categories:
   - Community
 description: Welcome post
 image: /assets/images/fw.jpg
-image-sm: /assets/images/thumbs/fw.jpg 
+image-sm: /assets/images/thumbs/da.jpg 
 ---
 #### Thanks for popping by :)
 Hi! I'm Dafin :) This website is an attempt making and updating a phlog*.
