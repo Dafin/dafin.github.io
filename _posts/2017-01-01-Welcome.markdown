@@ -5,7 +5,7 @@ date: 2016-01-02
 categories:
   - Community
 description: Welcome post
-image: /assets/images/fw.jpg
+image: /assets/images/Dafin_Logo_Thumb_Up.png
 image-sm: /assets/images/thumbs/da.jpg 
 ---
 #### Thanks for popping by :)
